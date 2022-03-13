@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho com Front End
+- 🔭 Atualmente focando em Front End
 - 🌱 Estudando C#
 - 💬 Vamos falar sobre Web 3.0
 - ⚡ Si
