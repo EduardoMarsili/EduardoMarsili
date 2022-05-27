@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente focando em Front End
-- 🌱 Estudando C#
+- 🔭 Atualmente focado em Análise de dados 
+- 🌱 Estudando SQL
 - 💬 Vamos falar sobre Web 3.0
 - ⚡ Si
 
