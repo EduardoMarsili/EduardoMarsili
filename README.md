@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Atualmente focado em Análise de dados 
+- 🔭 Atualmente focado em kotlin 
 - 🌱 Estudando SQL
 - 💬 Vamos falar sobre Web 3.0
-- ⚡ Si
+- ⚡ Computer Science
 
 <div align="center">
   <a href="https://github.com/EduardoMarsili">
