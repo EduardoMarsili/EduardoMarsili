@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Atualmente focado em kotlin 
+- 🔭 focado em kotlin 
 - 🌱 Estudando SQL
-- 💬 Vamos falar sobre Web 3.0
+- 💬 
 - ⚡ Computer Science
 
 <div align="center">
